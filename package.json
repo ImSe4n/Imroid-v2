@@ -46,7 +46,7 @@
     "enmap": "^5.8.7",
     "express": "^4.17.2",
     "ffmpeg": "^0.0.4",
-    "ffmpeg-static": "^4.4.0",
+    "ffmpeg-static": "^5.0.0",
     "figlet": "^1.5.0",
     "flip-text": "^1.1.0",
     "fs": "0.0.1-security",
