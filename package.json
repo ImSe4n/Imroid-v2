@@ -55,7 +55,7 @@
     "google-play-scraper": "^8.0.2",
     "got": "^11.5.1",
     "imdb-api": "^4.2.0",
-    "jimp": "^0.16.0",
+    "jimp": "^0.22.0",
     "join-images": "^1.0.0",
     "mal-scraper": "^2.11.3",
     "moment": "^2.27.0",
