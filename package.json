@@ -67,7 +67,7 @@
     "node-fetch": "^3.0.0",
     "node-opus": "^0.3.3",
     "node-superfetch": "^0.2.0",
-    "opusscript": "0.0.8",
+    "opusscript": "0.1.1",
     "os": "^0.1.1",
     "os-utils": "0.0.14",
     "path": "^0.12.7",
